@@ -1,2 +1,2 @@
 # HPOmining
-final master project
+Final Master Project
