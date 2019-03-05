@@ -1,2 +1,2 @@
-# HPO_mining
+# HPOmining
 final master project
