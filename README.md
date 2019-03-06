@@ -1,2 +1,2 @@
-# HPOmining
+# HPOMining
 Final Master Project
