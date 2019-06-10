@@ -7,3 +7,9 @@ Repositorio que contiene la programación desarrollada para los distintos proced
 - main_code: código donde se ejecutan todas las funciones desarrolladas de forma secuencial.
 - nimgenetics.py: archivo py que contiene todas las funciones diseñadas.
 - frecuencias_corpus: información relativa al corpus generado.
+
+Si existen problemas de renderización, utilizar los links indicados a continuación para visualizar los notebook:
+
+https://nbviewer.jupyter.org/github/jmiguel792/HPOMining/blob/master/main_code.ipynb
+
+
