@@ -12,4 +12,6 @@ Si existen problemas de renderización, utilizar los links indicados a continuac
 
 https://nbviewer.jupyter.org/github/jmiguel792/HPOMining/blob/master/main_code.ipynb
 
+https://nbviewer.jupyter.org/github/jmiguel792/HPOMining/blob/master/frecuencias_corpus.ipynb
+
 
